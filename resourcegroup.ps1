@@ -1,0 +1,1 @@
+New-AzResourceGroup -Name Test4578 -Location EastUS
